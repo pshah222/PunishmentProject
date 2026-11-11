@@ -19,7 +19,7 @@
   "dependencies": {
     "body-parser": "~1.14.1",
     "express": "~4.13.3",
-    "mongoose": "~4.1.9",
+    "mongoose": "~9.12.1",
     "angular": "~1.4.7"
   }
 }
